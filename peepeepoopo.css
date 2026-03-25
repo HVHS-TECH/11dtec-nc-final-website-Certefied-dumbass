@@ -1,8 +1,14 @@
 body {
 
-    background-color: rgb(66, 3, 61);
-color: rgb(94, 101, 114);
+   color: rgb(202, 182, 205);
+background-color: rgb(145, 144, 152);
 
- 
-
+ text-align: left;
+ .alignment-container img {
+    vertical-align: middle; /* Aligns the image's middle with the text's middle */
+  }
+  
+  .alignment-container {
+    vertical-align: middle; /* Ensures the whole container aligns correctly if placed with other items */
+  }
 }
