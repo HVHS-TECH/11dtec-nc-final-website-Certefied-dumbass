@@ -1,8 +1,13 @@
-body {
+header.{ background-color: darkslateblue;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+}
+
+body {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
    color: rgb(202, 182, 205);
 background-color: rgb(145, 144, 152);
-
+padding: 30px;
  text-align: left;
  .alignment-container img {
     vertical-align: middle; /* Aligns the image's middle with the text's middle */
@@ -11,4 +16,25 @@ background-color: rgb(145, 144, 152);
   .alignment-container {
     vertical-align: middle; /* Ensures the whole container aligns correctly if placed with other items */
   }
+
+.sr{ background-color: palevioletred;
+ padding:50px; 
+border-radius: 100px;
+}
+.titel{ background-color: lightslategray;
+border-radius: 20px;
+padding: 20px;
+}
+.minecrap{ padding: 50px;
+  background-color: green;
+border-radius: 100px;
+
+}
+.autoamtiongam{ background-color: orange ;
+padding:50px;
+border-radius: 100px;
+color: rgb(134, 133, 133);
+}
+
+
 }
