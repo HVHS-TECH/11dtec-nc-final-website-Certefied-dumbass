@@ -35,6 +35,45 @@ padding:50px;
 border-radius: 100px;
 color: rgb(134, 133, 133);
 }
+.autismdoom{
+background-color: red;
+padding: 50px;
+border-radius: 100px;
+}
+.suprearth{
+background-color: rgb(255, 231, 16);
+padding: 50px;
+border-radius: 100px;
 
+}
+.nav {
+  
+  color:rgb(43, 45, 135);
+  background-color: rgb(145, 144, 152);
+  border: solid 2px rgb(202, 182, 205);
+ height: 200px;
+ width: 1000px
+  display:flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+
+.navint{
+ display:flex;
+ justify-content:center;
+ font-size:20px;
+ height:100px;
+ padding-top:10px;
+ border-radius:2px;
+ transition: transform .2s;
+ background-color:rgb(145, 144, 152);
+ color:rgb(43, 45, 135);
+ border: solid 2px rgb(39, 83, 153);
+}
+
+.navint:hover{
+ transform: scale(1.2);
+ color: rgb(255, 255, 255);
+}
 
 }
