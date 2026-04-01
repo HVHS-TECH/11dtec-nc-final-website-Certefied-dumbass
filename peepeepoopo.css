@@ -79,8 +79,8 @@ padding: 50px;
 }
  .linkylinks{
 border-radius: 50px;
-background-color: blue;
- }   
+background-color: blue ;
+}   
 .linkylinks:hover{
  transform: scale(1.2);
  background-color: blue;
