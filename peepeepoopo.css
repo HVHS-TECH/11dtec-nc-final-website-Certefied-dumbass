@@ -81,8 +81,24 @@ padding: 50px;
 border-radius: 50px;
 background-color: blue ;
 }   
-.linkylinks:hover{
+.sr:hover{
  transform: scale(1.2);
- background-color: blue;
+ background-color: palevioletred;
 }
+      .minecrap:hover{
+ transform: scale(1.2);
+ background-color: green;
 }
+      .autoamtiongam:hover{
+ transform: scale(1.2);
+ background-color: orange;
+      }
+         .autismdoom:hover{
+ transform: scale(1.2);
+ background-color: red;
+         }
+      .suprearth:hover{
+ transform: scale(1.2);
+ background-color: rgb(255, 231, 16);
+      }
+     }
